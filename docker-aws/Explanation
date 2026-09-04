@@ -1,0 +1,21 @@
+1. npm i @monaco-editor/react //you can put a VS Code-like code editor inside your React website.
+
+2. npm i socket.io //Used for real-time communication between the frontend and backend.
+
+3. npm i y-socket.io  //This is related to Yjs, a framework for building collaborative applications.
+For example, imagine you are building a website like Google Docs or a collaborative code editor.
+Two users can edit the same document
+
+4. npm i cors //Installs the CORS package so your backend can allow requests from different frontend origins/domains.
+
+5. useState //Stores data/state in a component and re-renders the component when that data changes.
+
+6. useEffect // Runs code after the component renders, usually for side effects like API calls, timers, or event listeners.
+
+7. useRef //Stores a value or references a DOM element without causing a re-render when it changes.
+
+8. useMemo // Caches the result of an expensive calculation and recalculates it only when its dependencies change.
+
+9. SocketIOProvider  //creates and manages a Socket.IO connection so multiple components can communicate and receive real-time updates through the same connection.
+
+10. Yjs // is a JavaScript library used to make real-time collaboration possible.
